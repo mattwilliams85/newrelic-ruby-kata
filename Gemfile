@@ -34,6 +34,8 @@ gem 'dalli'
 gem 'memcachier'
 # New Relic
 
+gem 'newrelic_rpm'
+
 # Fast production server
 gem 'puma'
 
